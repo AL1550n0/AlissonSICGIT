@@ -1,4 +1,4 @@
-// URL del backend (ajusta según tu configuración)
+// URL del backend 
 const BACKEND_URL = 'http://localhost:5000/predict';
 
 // Elementos del DOM
