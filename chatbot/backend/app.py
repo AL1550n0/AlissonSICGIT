@@ -7,10 +7,10 @@ app = Flask(__name__)
 CORS(app)  # Habilitar CORS para todos los orígenes
 
 # Cargar modelo
-ruta_modelo = os.path.join(os.path.dirname(__file__), 'mod_preguntas.pkl')
+ruta_modelo = os.path.join(os.path.dirname(__file__), 'modelo_de_preguntas.pkl')
 rf_model = joblib.load(ruta_modelo)
 
-ruta_vectorizer = os.path.join(os.path.dirname(__file__), 'vectorizer.pkl')
+ruta_vectorizer = os.path.join(os.path.dirname(__file__), 'vectorizador.pkl')
 vectorizer = joblib.load(ruta_vectorizer)
 @app.route('/predict', methods=['POST'])
 def predict():
