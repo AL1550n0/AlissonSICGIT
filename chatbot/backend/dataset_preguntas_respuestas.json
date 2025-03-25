@@ -1,43 +1,42 @@
 [
     {
         "input": "¿Cómo puedo aplicar a universidades en EE.UU.?",
-        "output": "Debes presentar el TOEFL, SAT y ensayos."
+        "output": "Debes investigar las universidades de tu interés y cumplir con sus requisitos. Generalmente, necesitas el SAT o ACT, una prueba de inglés (TOEFL o IELTS), ensayos, cartas de recomendación y tu historial académico. También revisa las fechas límite y posibles entrevistas."
     },
     {
         "input": "¿Qué necesito para estudiar en una universidad de EE.UU.?",
-        "output": "Generalmente necesitas un examen de inglés como el TOEFL y un ensayo personal."
+        "output": "Además de los requisitos de admisión (SAT, TOEFL, ensayos, etc.), necesitarás una visa de estudiante (F-1), demostrar solvencia económica y contar con seguro médico. Es importante revisar las fechas de aplicación y posibles becas."
     },
     {
         "input": "¿Cuáles son los requisitos para estudiar en Europa?",
-        "output": "Depende del país, pero suelen pedir el IELTS y pruebas de admisión."
+        "output": "Depende del país, pero suelen pedir un certificado de idioma (IELTS, TOEFL, DELF, TestDaF), historial académico, exámenes de admisión y, en algunos casos, carta de motivación. También es necesario tramitar la visa de estudiante."
     },
     {
         "input": "¿Cómo obtener una beca para estudiar en el extranjero?",
-        "output": "Debes investigar las convocatorias, cumplir con los requisitos académicos y enviar una solicitud."
+        "output": "Investiga programas como Fulbright (EE.UU.), Chevening (Reino Unido), DAAD (Alemania) o Erasmus+ (Europa). Generalmente, requieren buen historial académico, ensayos, cartas de recomendación y, en algunos casos, entrevistas."
     },
     {
         "input": "¿Qué carreras tienen mayor demanda en el futuro?",
-        "output": "Algunas de las carreras con mayor demanda incluyen tecnología, inteligencia artificial, medicina y energías renovables."
+        "output": "Áreas como tecnología (IA, ciberseguridad, ciencia de datos), salud (biotecnología, telemedicina), energías renovables, fintech y educación digital tendrán alta demanda en los próximos años."
     },
     {
         "input": "¿Cómo aprender a programar desde cero?",
-        "output": "Puedes empezar con cursos en línea gratuitos, practicar con proyectos sencillos y unirte a comunidades de programadores."
+        "output": "Empieza con lenguajes como Python o JavaScript. Usa cursos en línea (freeCodeCamp, CS50, Codecademy), practica con proyectos pequeños y únete a comunidades como GitHub o Stack Overflow."
     },
     {
         "input": "¿Qué lenguajes de programación son más populares?",
-        "output": "Algunos de los lenguajes más populares son Python, JavaScript, Java, C++ y Go."
+        "output": "Entre los más usados están Python (IA, ciencia de datos), JavaScript (web), Java (apps móviles), C++ (videojuegos) y Go (backend escalable)."
     },
     {
         "input": "¿Cuáles son los beneficios de aprender inglés?",
-        "output": "Aprender inglés te permite acceder a mejores oportunidades laborales, viajar con facilidad y consumir contenido global."
+        "output": "Te abre oportunidades laborales, facilita el acceso a educación internacional, mejora la comunicación en viajes y te permite acceder a más contenido en internet."
     },
     {
         "input": "¿Cómo mejorar mis hábitos de estudio?",
-        "output": "Organiza tu tiempo, usa técnicas como Pomodoro, evita distracciones y repasa constantemente."
+        "output": "Usa técnicas como Pomodoro, elimina distracciones, haz resúmenes y mapas mentales, duerme bien y mantén un horario de estudio fijo."
     },
     {
         "input": "¿Cuál es la mejor manera de prepararse para una entrevista de trabajo?",
-        "output": "Investiga sobre la empresa, practica respuestas a preguntas comunes y demuestra confianza en tus habilidades."
+        "output": "Investiga la empresa, practica respuestas a preguntas comunes, prepara ejemplos de logros, cuida tu lenguaje corporal y haz preguntas al entrevistador."
     }
 ]
-
