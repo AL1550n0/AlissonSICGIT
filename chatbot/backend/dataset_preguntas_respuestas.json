@@ -1,0 +1,43 @@
+[
+    {
+        "input": "¿Cómo puedo aplicar a universidades en EE.UU.?",
+        "output": "Debes presentar el TOEFL, SAT y ensayos."
+    },
+    {
+        "input": "¿Qué necesito para estudiar en una universidad de EE.UU.?",
+        "output": "Generalmente necesitas un examen de inglés como el TOEFL y un ensayo personal."
+    },
+    {
+        "input": "¿Cuáles son los requisitos para estudiar en Europa?",
+        "output": "Depende del país, pero suelen pedir el IELTS y pruebas de admisión."
+    },
+    {
+        "input": "¿Cómo obtener una beca para estudiar en el extranjero?",
+        "output": "Debes investigar las convocatorias, cumplir con los requisitos académicos y enviar una solicitud."
+    },
+    {
+        "input": "¿Qué carreras tienen mayor demanda en el futuro?",
+        "output": "Algunas de las carreras con mayor demanda incluyen tecnología, inteligencia artificial, medicina y energías renovables."
+    },
+    {
+        "input": "¿Cómo aprender a programar desde cero?",
+        "output": "Puedes empezar con cursos en línea gratuitos, practicar con proyectos sencillos y unirte a comunidades de programadores."
+    },
+    {
+        "input": "¿Qué lenguajes de programación son más populares?",
+        "output": "Algunos de los lenguajes más populares son Python, JavaScript, Java, C++ y Go."
+    },
+    {
+        "input": "¿Cuáles son los beneficios de aprender inglés?",
+        "output": "Aprender inglés te permite acceder a mejores oportunidades laborales, viajar con facilidad y consumir contenido global."
+    },
+    {
+        "input": "¿Cómo mejorar mis hábitos de estudio?",
+        "output": "Organiza tu tiempo, usa técnicas como Pomodoro, evita distracciones y repasa constantemente."
+    },
+    {
+        "input": "¿Cuál es la mejor manera de prepararse para una entrevista de trabajo?",
+        "output": "Investiga sobre la empresa, practica respuestas a preguntas comunes y demuestra confianza en tus habilidades."
+    }
+]
+
