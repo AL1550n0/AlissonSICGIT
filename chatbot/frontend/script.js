@@ -65,7 +65,7 @@ function mostrarRecomendaciones() {
     // Mensaje de bienvenida
     const welcomeDiv = document.createElement('div');
     welcomeDiv.classList.add('message', 'bot-message');
-    welcomeDiv.innerHTML = '🤖 ¡Bienvenido! Aquí tienes algunas preguntas sugeridas:';
+    welcomeDiv.innerHTML = '🤖 ¡Hola! Aquí tienes algunas preguntas sugeridas:';
     chatMessages.appendChild(welcomeDiv);
 
     // Crear contenedor de recomendaciones
@@ -93,12 +93,9 @@ function mostrarRecomendaciones() {
     chatMessages.scrollTop = chatMessages.scrollHeight;
 }
 
-// Modificar tu función existente para agregar recomendaciones al inicio
 function inicializarChat() {
-    // Limpiar mensajes existentes
     const chatMessages = document.getElementById('chat-messages');
     chatMessages.innerHTML = '';
-
     // Mostrar recomendaciones
     mostrarRecomendaciones();
 }
