@@ -4,10 +4,10 @@ import joblib
 import os 
 
 app = Flask(__name__)
-CORS(app)  # Habilitar CORS para todos los orígenes
+CORS(app)  
 
 # Cargar modelo
-ruta_modelo = os.path.join(os.path.dirname(__file__), 'modelo_de_preguntas.pkl')
+ruta_modelo = os.path.join(os.path.dirname(__file__), 'modelo_preguntas.pkl')
 rf_model = joblib.load(ruta_modelo)
 
 ruta_vectorizer = os.path.join(os.path.dirname(__file__), 'vectorizador.pkl')
